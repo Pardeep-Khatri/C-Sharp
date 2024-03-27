@@ -1,0 +1,8 @@
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\bin\Debug\Inherit.exe.config
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\bin\Debug\Inherit.exe
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\bin\Debug\Inherit.pdb
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\obj\Debug\Inherit.csproj.AssemblyReference.cache
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\obj\Debug\Inherit.csproj.SuggestedBindingRedirects.cache
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\obj\Debug\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\obj\Debug\Inherit.exe
+C:\Users\PARDEEP\Desktop\C#\Inherit\Inherit\obj\Debug\Inherit.pdb

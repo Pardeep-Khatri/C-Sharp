@@ -1,0 +1,8 @@
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\bin\Debug\FeetToInches.exe.config
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\bin\Debug\FeetToInches.exe
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\bin\Debug\FeetToInches.pdb
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\obj\Debug\FeetToInches.csproj.AssemblyReference.cache
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\obj\Debug\FeetToInches.csproj.SuggestedBindingRedirects.cache
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\obj\Debug\FeetToInches.csproj.CoreCompileInputs.cache
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\obj\Debug\FeetToInches.exe
+C:\Users\PARDEEP\Desktop\C#\FeetToInches\FeetToInches\obj\Debug\FeetToInches.pdb

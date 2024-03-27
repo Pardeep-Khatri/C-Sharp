@@ -1,0 +1,8 @@
+C:\Users\PARDEEP\Desktop\C#\classes\classes\bin\Debug\classes.exe.config
+C:\Users\PARDEEP\Desktop\C#\classes\classes\bin\Debug\classes.exe
+C:\Users\PARDEEP\Desktop\C#\classes\classes\bin\Debug\classes.pdb
+C:\Users\PARDEEP\Desktop\C#\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\PARDEEP\Desktop\C#\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\PARDEEP\Desktop\C#\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\PARDEEP\Desktop\C#\classes\classes\obj\Debug\classes.exe
+C:\Users\PARDEEP\Desktop\C#\classes\classes\obj\Debug\classes.pdb
